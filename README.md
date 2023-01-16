@@ -23,6 +23,10 @@
 <p><p><p align="center">
 I don't use Github often; please check out my <a href="https://gitlab.com/atlantis-development">GitLab instead here</a>!
 </p>
+<p>
+<p align="center">
+Creator of the best Pixelmon plugins, including AquaGyms, AquaSkills, AquaCrates, and more!
+</p>
 
 <!--
 **Waterdude/Waterdude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
