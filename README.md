@@ -25,7 +25,7 @@ I don't use Github often; please check out my <a href="https://gitlab.com/atlant
 </p>
 <p>
 <p align="center">
-Creator of the best Pixelmon plugins, including AquaGyms, AquaSkills, AquaCrates, and more!
+Creator of some of the best Pixelmon plugins, including AquaGyms, AquaSkills, AquaCrates, and more!
 </p>
 
 <!--
