@@ -21,7 +21,7 @@
 </div>
 
 <p><p><p align="center">
-I don't use Github often; please check out my <a href="https://gitlab.com/atlantis-development">GitLab instead here</a>!
+I don't use Github often; please check out my <a href="https://gitlab.com/atlantis-development">GitLab here instead</a>!
 </p>
 <p>
 <p align="center">
