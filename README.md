@@ -25,7 +25,7 @@ I don't use Github often for my company's own work; please check out my <a href=
 </p>
 <p>
 <p align="center">
-Maintainer and Java developer for <a href="https://pixelmonmod.com/">Pixelmon</a>, and Kotlin/Java developer for <a href="https://essential.gg/">Essential</a>.
+Director and Kotlin/Java developer for <a href="https://waterdu.de/>Waterdude Studios Ltd">Waterdude Studios Ltd</a> maintainer and Java developer for <a href="https://pixelmonmod.com/">Pixelmon</a>, and Kotlin/Java developer for <a href="https://essential.gg/">Essential</a>.
 </p>
 <p>
 <p align="center">
