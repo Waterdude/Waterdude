@@ -21,11 +21,15 @@
 </div>
 
 <p><p><p align="center">
-I don't use Github often; please check out my <a href="https://gitlab.com/atlantis-development">GitLab here instead</a>!
+I don't use Github often for my company's own work; please check out my <a href="https://gitlab.com/atlantis-development">GitLab here instead</a>!
 </p>
 <p>
 <p align="center">
-Creator of some of the best Pixelmon plugins, including AquaGyms, AquaSkills, AquaCrates, and more!
+Maintainer and Java developer for <a href="https://pixelmonmod.com/">Pixelmon</a>, and Kotlin/Java developer for <a href="https://essential.gg/">Essential</a>.
+</p>
+<p>
+<p align="center">
+Creator of some of the best Pixelmon plugins, including <a href="https://gitlab.com/atlantis-development/aquagyms/">AquaGyms</a>, <a href="https://gitlab.com/atlantis-development/aquaskills/">AquaSkills</a>, <a href="https://gitlab.com/atlantis-development/aquacrates/">AquaCrates</a>, and more!
 </p>
 
 <!--
